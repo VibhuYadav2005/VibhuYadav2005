@@ -13,8 +13,6 @@ Cybersecurity Enthusiast | Java & Python Programmer | Game Developer
 - 🌐 **Cyber Enthusiast**: I love to dive into the world of cybersecurity, exploring how systems work and tweaking things out of curiosity.
 - 🧠 **Information Overload**: I thrive on learning and enjoy getting overwhelmed with new information. 
 
-![Curiosity GIF](https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif?cid=790b7611ns59g4evrrnqniehqkxo0oul79dd6jp20omc23ft&ep=v1_gifs_search&rid=giphy.gif&ct=g) 
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
